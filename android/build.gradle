@@ -21,6 +21,6 @@ android {
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
-    compile 'com.github.ronal2do:ucrop:2.2.2-native'
+    compile 'com.github.ronal2do:uCrop:-SNAPSHOT'
     compile 'id.zelory:compressor:2.1.0'
 }
